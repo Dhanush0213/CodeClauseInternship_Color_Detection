@@ -77,6 +77,3 @@ Follow these steps to set up and run the application:
 
 7. Use the "Save Palette" button to save the detected colors as a palette image (optional).
 
-
-
-**Note:** This README file provides a basic outline of the project and its setup instructions. Please make sure to update it with project-specific information, such as project goals, contributors, and any additional details needed for your internship at CodeClause.
